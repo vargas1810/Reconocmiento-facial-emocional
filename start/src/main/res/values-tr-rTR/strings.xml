@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_deny_text">Gerekli izinler verilmedi!</string>
+    <string name="app_name">Emotion Detector</string>
+    <string name="happy">Mutluluk</string>
+    <string name="angry">Kızgınlık</string>
+    <string name="disgust">İğrenme</string>
+    <string name="sad">Üzüntü</string>
+    <string name="fear">Korku</string>
+    <string name="surprised">Şaşırma</string>
+    <string name="neutral">Nötr</string>
+</resources>
