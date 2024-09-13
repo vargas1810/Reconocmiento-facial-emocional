@@ -31,6 +31,10 @@ class RecognitionAdapter(private val ctx: Context) :
     /**
      * Inflating the ViewHolder with recognition_item layout and data binding
      */
+    /**
+     * Inflating the ViewHolder with recognition_item layout and data binding
+     */
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecognitionViewHolder {
         val inflater = LayoutInflater.from(ctx)
         val binding = RecognitionItemBinding.inflate(inflater, parent, false)
